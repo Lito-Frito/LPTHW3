@@ -10,7 +10,7 @@ All solutions from his book as of 5/31/21.
 ## Requirements
 * Python3
 * a CLI (if you're on Windows, this is the Command Prompt; for Linux and Mac, this is your terminal)
-* [Zed Shaw's book LJSTHW](https://learncodethehardway.org/python/)
+* [Zed Shaw's book LPTHW3](https://learncodethehardway.org/python/)
 
 ## Quick Start
 You can go run these solutions in the terminal to compare them to your answers. Or, you can look at the code to read my notes that further explain what Zed covers.
