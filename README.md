@@ -1,6 +1,6 @@
 # Learn Python3 The Hard Way: Solutions
 
-These are my solutions to [Zed Shaw's book LJSTHW](https://learncodethehardway.org/python/). If you need to learn a new language, I recommend his books.
+These are my solutions to [Zed Shaw's book LPTHW](https://learncodethehardway.org/python/). If you need to learn a new language, I recommend his books.
 
 ## What This Includes
 All solutions from his book as of 5/31/21.
